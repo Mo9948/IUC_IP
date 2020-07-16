@@ -2,7 +2,7 @@
 |                                                                                                          |
 |                 IP solution methods for the Max IUC problem (RND Instances -- Strong VIs added)          |
 |                                                                                                          |
-|                 Copyright (c) 2019 Seyedmohammadhossein Hosseinian. All rights reserved.                 |
+|                    Copyright (c) 2019 Seyedmohammadhossein Hosseinian. All rights reserved.              |
 |                                                                                                          |
 |__________________________________________________________________________________________________________|
 
