@@ -2,7 +2,7 @@
 
 # Polyhedral Properties of the Induced Custer Subgraphs
 
-This respiratory contains the code and instances accompaning the following paper:
+This respiratory contains the code and instances accompanying the following paper:
 
 > **S. Hosseinian and S. Butenko. [Polyhedral Properties of the Induced Cluster Subgraphs.](https://arxiv.org/abs/1904.12025) _arXiv preprint arXiv:1904.12025 (2019)_**
 
