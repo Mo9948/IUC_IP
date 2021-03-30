@@ -4,7 +4,7 @@
 
 This repository contains the code and instances accompanying the following paper:
 
-> **S. Hosseinian and S. Butenko. [Polyhedral Properties of the Induced Cluster Subgraphs.](https://doi.org/10.1016/j.dam.2021.02.040.) _Discrete Applied Mathematics 297 (2021): 80-96_**
+> **S. Hosseinian and S. Butenko. [Polyhedral Properties of the Induced Cluster Subgraphs.](https://doi.org/10.1016/j.dam.2021.02.040) _Discrete Applied Mathematics 297 (2021): 80-96_**
 
 Citation:
 
